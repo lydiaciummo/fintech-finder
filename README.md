@@ -78,7 +78,7 @@ if st.sidebar.button("Send Transaction"):
 
 If the transaction is successful, it will be displayed under the "Transactions" tab in Ganache.
 
-![an image showing the transaction in Ganache](./images/ganache_transactions.jpg)
+![an image showing the transaction in Ganache](./images/ganache.jpg)
 
 ## Installation and Usage
 
