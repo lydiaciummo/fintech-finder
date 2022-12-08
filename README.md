@@ -78,7 +78,7 @@ if st.sidebar.button("Send Transaction"):
 
 If the transaction is successful, it will be displayed under the "Transactions" tab in Ganache.
 
-![an image showing the transaction in Ganache](./images/ganache.jpg)
+![an image showing the transaction in Ganache](./Images/ganache.jpg)
 
 ## Installation and Usage
 
@@ -91,11 +91,11 @@ MNEMONIC = '<your mnemonic seed phrase>'
 ```
 To launch the application, open your terminal and navigate to the directory containinig the `fintech_finder.py` file and type `streamlit run fintech_finder.py`
 
-![a gif showing how to launch the app from the terminal](./images/launch_from_terminal.gif)
+![a gif showing how to launch the app from the terminal](./Images/launch_from_terminal.gif)
 
 This command will launch the app in your browser.
 
-![a gif showing the app being used in the browser](./images/app_in_browser.gif)
+![a gif showing the app being used in the browser](./Images/app_in_browser.gif)
 
 ## Technologies
 
