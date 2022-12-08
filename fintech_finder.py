@@ -17,7 +17,7 @@ candidate_database = {
     "Tom": ["Tom", "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45", "4.1", .16, "Images/voldemort.jpg"]
 }
 
-# A list of the FinTech Finder candidates first names
+# A list of the FinTech Finder candidates' first names
 people = ["Gary", "Brendon", "Yzma", "Tom"]
 
 

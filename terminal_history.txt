@@ -1,0 +1,50 @@
+  480  cd 01-build_a_blockchain_block
+  481  cd unsolved
+  482  cd 01-build_a_blockchain_bloxk
+  483  cd 01-build_a_blockchain_block
+  484  cd unsolved
+  485  ls
+  486  streamlit run app.py
+  487  conda activate dev
+  488  jupyter lab
+  489  conda deactivate
+  490  conda activate dev
+  491  cd onedrive/boot_camp/challenges/module_18_challenge/blockchain-ledger-app
+  492  streamlit run pychain.py
+  493  conda activate dev
+  494  pip install web3==5.17
+  495  pip install eth-tester==0.5.0b3
+  496  pip install mnemonic
+  497  pip install bip44
+  498  jupyter lab
+  499  jupyter lab --ContentsManager.allow_hidden=True
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_19_challenge
+  502  git clone git@github.com:lydiaciummo/fintech-finder.git
+  503  git clone git@github.com:lydiaciummo/fintech-finder.git
+  504  ls
+  505  cd fintech-finder
+  506  git status
+  507  git add --all
+  508  git commit -m"Added starter code to the repository"
+  509  git push
+  510  git status
+  511  git rm SAMPLE.env
+  512  git commit -m"removed .env file that was accidentally added"
+  513  git push
+  514  conda activate dev
+  515  streamlit run fintech_finder.py
+  516  streamlit run fintech_finder.py
+  517  git status
+  518  git add fintech-finder.py
+  519  git add fintech_finder.py
+  520  git commit -m"Added the code to make the application functional"
+  521  streamlit run fintech_finder.py
+  522  git status
+  523  git add --all
+  524  git status
+  525  git commit -m"edited comments and changed the candidate names and photos"
+  526  git push
+  527  streamlit run fintech-finder.py
+  528  streamlit run fintech_finder.py
+  529  history 50 > terminal_history.txt
